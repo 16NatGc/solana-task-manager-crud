@@ -4,7 +4,7 @@ Solana Task System (CRUD + PDA)
 Este proyecto es un sistema de gestión de tareas descentralizado desarrollado para el Solana LATAM Builders Program (Abril 2026). El programa permite a los usuarios crear, actualizar y eliminar tareas directamente en la blockchain de Solana.
 
 ## Detalles del Despliegue
-Program ID: 3qSbmvtKTwKC9gTbjFUe9XjkjYo3E... (Pega aquí tu ID completo)
+Program ID: 3qSbmtvKTwKC9gTbjFUe9XjkjYo3EeXmrPBgLqYzWRLs
 
 Red: Solana Devnet
 
